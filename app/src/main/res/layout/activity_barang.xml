@@ -10,7 +10,7 @@
         android:id="@+id/rcv_barang"
         android:layout_width="match_parent"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-        tools:listitem="@layout/list_portofolio_daftar_order"
+        tools:listitem="@layout/item_barang"
         android:layout_height="match_parent"/>
 
 </LinearLayout>
