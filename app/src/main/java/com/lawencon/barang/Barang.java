@@ -12,5 +12,23 @@ public class Barang extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_barang);
+
+        initComponent();
+    }
+
+    void initComponent(){
+
+    }
+
+    void tambahData(Barang barang){
+
+    }
+
+    void editData(Barang barang){
+
+    }
+
+    void getAll(){
+
     }
 }
