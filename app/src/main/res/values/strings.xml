@@ -6,4 +6,8 @@
     <string name="error_email_wrong">Format email salah</string>
     <string name="error_password_wrong">Format password salah</string>
     <string name="error_empty_password">Harap masukan password</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="quantity">Quantity</string>
+    <string name="exp_date">Exp Date</string>
+    <string name="harga">Harga</string>
 </resources>
